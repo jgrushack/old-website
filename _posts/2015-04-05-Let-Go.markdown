@@ -1,7 +1,0 @@
----
-published: true
----
-
-## Let Go
-
-Work in progress
