@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Jesse Grushack
 tagline:          'Random thoughts '
-description:      ''
-url:              http://hyde.getpoole.com
+description:      'Random thoughts about my work at <a href="http://www.byteacademy.co">Byte Academy</a>, Crypto Currencies, Music, etc.'
+url:              google.com
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/jgrushack
