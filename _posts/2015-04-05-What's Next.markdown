@@ -2,9 +2,9 @@
 published: true
 ---
 
-## What's Next
 
-Almost 4 months ago, I was let go from SFX Entertainment.
+
+######Almost 4 months ago, I was let go from SFX Entertainment.
 
 What started as a seemingly normal day ended in a meeting with a totally unexpected outcome. Hearing the words, “it’s nothing personal, due to restructuring, we’re going to have to let you go” could not have been a more personal statement. Why me? What did I (or didn’t) I do that was so different than anyone else? I had heard rumors that salary cap had to be made free so Beatport could hire developers, but it didn’t cross my mind that it would start with me.  But just like that, I was escorted (yes, just like the movies) from the office and cast back into the real world.
 
