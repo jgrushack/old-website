@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+title: "What's Next"
+
+
 ---
 
 Almost 4 months ago, I was let go from SFX Entertainment.
