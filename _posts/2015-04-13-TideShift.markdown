@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: "Are the Tides Shifting?"
 ---
@@ -9,5 +9,5 @@ Since the days of Napster, the music industry has shifted from physical media to
 
 Since artists were no longer being fairly compensated for the music that they produced, another revenue stream was needed. This either meant months of touring or higher priced shows (which have increased tremendously since 2001). The record labels tried to combat internet piracy with Sony's introduction of Digital Rights Managment in 2005 but consumers lashed out and DRM died. This put the industry back to square one. A factor that a lot of people overlook is as albums were becoming obsolete, so were record labels. The only difference was the record labels wouldn't admit it. 
 
-##### Before digital music, record labels were responsible for producing or mastering, marketing, distributing, and selling records. 
-Once everything went digital, this all changed. Digital Audio Workstations, or DAW's 
+##### Before digital music, record labels were responsible for marketing, distributing, and selling records. 
+Once everything went digital this process changed. Digital Audio Workstations, or DAW's became readily availble in the early 2000's, all of a sudden anyone could create music. Distribution 
