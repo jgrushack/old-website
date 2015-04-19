@@ -7,16 +7,16 @@ title: "What's Next"
 Most people are aware that if statements work with else. What many people are unaware of is that else also works with for and while. When using it with for and while it is probably wise to consider it a "nobreak" statement.
 
 
-'''
-for n in range(2, 10):
-    for x in range(2, n):
-...         if n % x == 0:
-...             print (n, 'equals', x, '*', n/x)
-...             break
-...     else:
-...         # loop fell through without finding a factor
-...         print  (n, 'is a prime number')
-'''
+
+> for n in range(2, 10): <br>
+    for x in range(2, n): <br>
+...         if n % x == 0: <br>
+...             print (n, 'equals', x, '*', n/x)<br>
+...             break<br>
+...     else:<br>
+...         # loop fell through without finding a factor<br>
+...         print  (n, 'is a prime number')<br>
+
 
 This code will return the else statement if the loop runs 'normally'. If n returns a remainder it will break the loop and the 'else' clause will not be run.  
 
