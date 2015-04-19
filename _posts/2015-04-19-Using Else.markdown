@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "What's Next"
+title: "Using Else:"
 ---
 
 Most people are aware that if statements work with else. What many people are unaware of is that else also works with for and while. When using it with for and while it is probably wise to consider it a "nobreak" statement.
