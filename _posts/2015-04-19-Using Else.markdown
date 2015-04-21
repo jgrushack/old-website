@@ -9,11 +9,11 @@ Most people are aware that if statements work with else. What many people are un
 
 
 > for n in range(2, 10): <br>
-    for x in range(2, n): <br>
-...         if n % x == 0: <br>
-...             print (n, 'equals', x, '*', n/x)<br>
-...             break<br>
-...     else:<br>
+...    for x in range(2, n): <br>
+......         if n % x == 0: <br>
+.........             print (n, 'equals', x, '*', n/x)<br>
+.........          break<br>
+   else:<br>
 ...         # loop fell through without finding a factor<br>
 ...         print  (n, 'is a prime number')<br>
 
