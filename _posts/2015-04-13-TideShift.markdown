@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The Rising Tides of Digital Music Streaming
 ---
@@ -19,8 +19,3 @@ It would be crazy to declare a streaming winner without discussing [Apple's plan
 While each platform has its positive and negatives, it is still to early in the streaming wars to declare a winner.
 
 [Q&A with Jay-Z](http://www.thefader.com/2015/04/01/the-full-transcript-of-jay-zs-qa-at-the-clive-davis-institute-of-recorded-music)
-
-
-
-
-
