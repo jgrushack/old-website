@@ -11,7 +11,7 @@ title:            Jesse Grushack
 tagline:          'Random thoughts '
 description:      'Random thoughts about my work at <a href="http://www.byteacademy.co">Byte Academy</a>, Crypto Currencies, Music, etc.'
 url:              google.com
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Jesse Grushack'
@@ -25,3 +25,8 @@ version:         1.0
 
 github:
   repo:           https://github.com/jgrushack
+
+instagram:        https://instagram.com/jgrushack/
+
+linkedin:         https://instagram.com/jgrushack/
+twitter:          https://twitter.com/jessegrushack
