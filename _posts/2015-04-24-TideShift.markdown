@@ -3,9 +3,6 @@ published: true
 layout: post
 title: The Rising Tides of Digital Music Streaming
 ---
-
-
-
 #### Is TIDAL really about the music?
 Jay-Z said TIDAL aims to "strike an honest blow (at the music industry) and... make people wake up" about music and how it is paid for. The problem with the announcement was Jay-Z chose 16 _very successful_ artists to launch the new platform. These artists also have something else in common; [they all own the masters](http://www.theverge.com/2015/4/9/8366967/apple-live-nation-tidal-streaming) to the majority of their records. This means that when Beyoncé puts out a new album she can decide she only wants it on TIDAL, and she can decide to pull her old albums off of rival streaming platforms as Jay-Z did - pulling "Reasonable Doubt" off of Spotify. This freedom is something that most major labels control, something artists are expected to give up in order to have their music distributed. This is odd when we live in a world where global distribution can be achieved in a matter of minutes. 
 
